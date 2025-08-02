@@ -12,12 +12,19 @@ Full CRUD operations (Create, Read, Update, Delete)
 Technologies Used
 
 Flask - Web framework
+
 SQLAlchemy - Database ORM
+
 Marshmallow - Data serialization
+
 JWT - Token-based authentication
+
 HTTPBasicAuth - Username/password authentication
+
 SQLite - Database
+
 Werkzeug - Password hashing
+
 
 Key Features
 
