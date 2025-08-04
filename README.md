@@ -15,6 +15,8 @@ Flask - Web framework
 
 SQLAlchemy - Database ORM
 
+Postman - testing the API endpoints and for json sending/receiving
+
 Marshmallow - Data serialization
 
 JWT - Token-based authentication
